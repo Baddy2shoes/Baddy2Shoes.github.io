@@ -38,7 +38,7 @@ To get to our final entry tally, we removed our “problem” data mentioned abo
 The following graph shows the top 5 busiest stations according to the results of our aggregate analysis:
 
 
-![Top 5](https://github.com/Baddy2shoes/Baddy2Shoes.github.io/blob/master/images/top5.png)
+![Top 5](https://github.com/Baddy2shoes/Baddy2Shoes.github.io/blob/master/images/top5.png?raw=true)
 
 
 Since we wanted to focus in on weekday and time as well, the following graph shows the cumulative entries for our top 5 stations, further split up by weekdays:
@@ -50,7 +50,7 @@ It seems that the bulk of traffic going into the stations happens in the middle 
 
 Now to further concentrate our efforts, we looked at time series data for entries for our top stations as well:
 
-![Time of Day](https://github.com/Baddy2shoes/Baddy2Shoes.github.io/blob/master/images/timeofday.png)
+![Time of Day](https://github.com/Baddy2shoes/Baddy2Shoes.github.io/blob/master/images/timeofday.png?raw=true)
 
 The bulk of traffic, as expected of a busy city like New York, is centered around the lunch rush, and the end of the day, when all the commuters are heading home. The most entry by volume happens from 12pm to 9pm.
 
