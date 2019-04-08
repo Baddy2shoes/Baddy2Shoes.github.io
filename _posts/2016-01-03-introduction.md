@@ -44,7 +44,7 @@ The following graph shows the top 5 busiest stations according to the results of
 Since we wanted to focus in on weekday and time as well, the following graph shows the cumulative entries for our top 5 stations, further split up by weekdays:
 
 
-![Weekdays](https://github.com/Baddy2shoes/Baddy2Shoes.github.io/blob/master/images/weekdays.png)
+![Weekdays](https://github.com/Baddy2shoes/Baddy2Shoes.github.io/blob/master/images/weekdays.png?raw=true)
 
 It seems that the bulk of traffic going into the stations happens in the middle of the week, concentrated on Tuesday, Wednesday, and Thursday, with Monday occasionally showing up with high traffic as well.
 
